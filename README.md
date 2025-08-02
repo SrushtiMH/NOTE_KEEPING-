@@ -1,4 +1,23 @@
-# React + Vite
+# NOTE KEEPING
+
+A full-stack note-keeping app using Node.js, Express, MongoDB (backend), and Vite (frontend).  
+This app lets users add, delete, and view notes.
+
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- Vite (frontend bundler)
+
+## Getting Started
+
+1. Clone the repo  
+   git clone https://github.com/SrushtiMH/NOTE-KEEPING.git
+2. Install dependencies  
+   npm install
+3. Add your .env variables
+4. Run server  
+   node server.js# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
